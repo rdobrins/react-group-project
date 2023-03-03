@@ -15,8 +15,8 @@
 # production
 /build
 
-# db
-/prisma/.env
+# env vars
+.env
 
 # misc
 .DS_Store
